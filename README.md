@@ -1,0 +1,2 @@
+# EpicFightFix
+This is a patch for the NeoForge port of Epic Fight 21.11.2, allowing compatibility with version 1.21.1 of Minecraft. The port had added the weapons and abilities without properly implementing recipes, enchantments, advancements, and allowing the recipes to appear in the crafting table recipe book.
