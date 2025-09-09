@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" l ",
+		" l ",
+		"r  "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:iron_sword"
+		},
+		"l": {
+			"item": "minecraft:iron_ingot"
+		}
+	},
+	"result": {
+		"id": "epicfight:iron_tachi",
+		"count": 1
+	},
+	"group": "epicfight_tachi"
+}
+

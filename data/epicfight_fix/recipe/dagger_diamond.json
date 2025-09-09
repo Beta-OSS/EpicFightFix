@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" r",
+		"l "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:diamond"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:diamond_dagger",
+		"count": 1
+	},
+	"group": "epicfight_dagger"
+}
+

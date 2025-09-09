@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" ll",
+		"lll",
+		"rl "
+	],
+	"key": {
+		"r": {
+			"tag": "minecraft:planks"
+		},
+		"l": {
+			"tag": "minecraft:stone_crafting_materials"
+		}
+	},
+	"result": {
+		"id": "epicfight:stone_greatsword",
+		"count": 1
+	},
+	"group": "epicfight_greatsword"
+}
+

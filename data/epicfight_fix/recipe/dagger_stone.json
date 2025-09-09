@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" r",
+		"l "
+	],
+	"key": {
+		"r": {
+			"tag": "minecraft:stone_crafting_materials"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:stone_dagger",
+		"count": 1
+	},
+	"group": "epicfight_dagger"
+}
+

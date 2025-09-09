@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" l",
+		" l",
+		"r "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:diamond_sword"
+		},
+		"l": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"id": "epicfight:diamond_tachi",
+		"count": 1
+	},
+	"group": "epicfight_tachi"
+}
+

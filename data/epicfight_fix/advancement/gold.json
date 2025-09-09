@@ -1,0 +1,40 @@
+{
+    "parent": "epicfight_fix:root",
+    "display": {
+        "icon": {
+            "id": "minecraft:gold_ingot"
+        },
+        "title": "Gold Rush!",
+        "description": "Like the good old days.",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "found_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:gold_ingot"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "found_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "epicfightfix:dagger_gold",
+            "epicfightfix:greatsword_gold",
+            "epicfightfix:longsword_gold",
+            "epicfightfix:spear_gold",
+            "epicfightfix:tachi_gold"
+        ]
+    }
+}

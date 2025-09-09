@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" ll",
+		"lll",
+		"rl "
+	],
+	"key": {
+		"r": {
+			"tag": "minecraft:planks"
+		},
+		"l": {
+			"item": "minecraft:diamond"
+		}
+	},
+	"result": {
+		"id": "epicfight:diamond_greatsword",
+		"count": 1
+	},
+	"group": "epicfight_greatsword"
+}
+

@@ -1,0 +1,40 @@
+{
+    "parent": "epicfight_fix:root",
+    "display": {
+        "icon": {
+            "id": "minecraft:stick"
+        },
+        "title": "A Stick?",
+        "description": "Is it wooden weapons time yet?",
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "found_item": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:stick"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "found_item"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "epicfightfix:dagger_wooden",
+            "epicfightfix:greatsword_wooden",
+            "epicfightfix:longsword_wooden",
+            "epicfightfix:spear_wooden",
+            "epicfightfix:tachi_wooden"
+        ]
+    }
+}

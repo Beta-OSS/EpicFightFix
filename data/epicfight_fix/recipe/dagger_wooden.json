@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" r",
+		"l "
+	],
+	"key": {
+		"r": {
+			"tag": "minecraft:planks"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:wooden_dagger",
+		"count": 1
+	},
+	"group": "epicfight_dagger"
+}
+

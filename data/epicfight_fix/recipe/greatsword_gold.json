@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" ll",
+		"lll",
+		"rl "
+	],
+	"key": {
+		"r": {
+			"tag": "minecraft:planks"
+		},
+		"l": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"id": "epicfight:golden_greatsword",
+		"count": 1
+	},
+	"group": "epicfight_greatsword"
+}
+

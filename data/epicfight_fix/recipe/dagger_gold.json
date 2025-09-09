@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		" r",
+		"l "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:gold_ingot"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:golden_dagger",
+		"count": 1
+	},
+	"group": "epicfight_dagger"
+}
+
+

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  r",
+		" l ",
+		"l  "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:stone_sword"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:stone_spear",
+		"count": 1
+	},
+	"group": "epicfight_spear"
+}
+

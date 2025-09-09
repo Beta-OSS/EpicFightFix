@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  l",
+		" l ",
+		"r  "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:golden_sword"
+		},
+		"l": {
+			"item": "minecraft:gold_ingot"
+		}
+	},
+	"result": {
+		"id": "epicfight:golden_longsword",
+		"count": 1
+	},
+	"group": "epicfight_longsword"
+}
+

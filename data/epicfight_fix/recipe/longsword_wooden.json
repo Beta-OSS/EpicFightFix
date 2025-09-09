@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  l",
+		" l ",
+		"r  "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:wooden_sword"
+		},
+		"l": {
+			"tag": "minecraft:planks"
+		}
+	},
+	"result": {
+		"id": "epicfight:wooden_longsword",
+		"count": 1
+	},
+	"group": "epicfight_longsword"
+}
+

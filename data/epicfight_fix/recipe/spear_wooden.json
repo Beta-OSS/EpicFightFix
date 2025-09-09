@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"  r",
+		" l ",
+		"l  "
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:wooden_sword"
+		},
+		"l": {
+			"item": "minecraft:stick"
+		}
+	},
+	"result": {
+		"id": "epicfight:wooden_spear",
+		"count": 1
+	},
+	"group": "epicfight_spear"
+}
+
