@@ -1,10 +1,10 @@
-# EpicFightFix
+# EpicFight Fix
 
 <p align="center">
   <img src="https://i.imgur.com/Sb4OJrp.png" alt="EpicFightFix" />
 </p>
 
-This datapack is designed for the NeoForge port of Epic Fight 21.11.2. While the port included item and ability data, features such as crafting recipes, enchantments, advancements, and recipe book integration were not fully implemented. This datapack builds on the existing data to restore these features.
+This datapack is designed for the NeoForge port of Epic Fight 21.11.2, providing compatibility with Minecraft version 1.21.1. While the port included item and ability data, features such as crafting recipes, enchantments, advancements, and recipe book integration were not fully implemented. This datapack builds on the existing data to restore these features.
 
 This datapack acts as an interface by:
 - Adding proper crafting recipes for all custom items
